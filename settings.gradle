@@ -1,0 +1,2 @@
+include ':app', ':gll_okhttp'
+project(':gll_okhttp').projectDir = new File('gll_okhttp')
